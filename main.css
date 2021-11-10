@@ -1,0 +1,35 @@
+main.css
+.body {
+    flex-direction: column;
+}
+.header {
+    viewport-fit: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 300px;
+    text-align: center;
+    font-size: 35px;
+  }
+
+.footer {
+    background-color:black;
+    padding:100px;
+    text-align: center;
+  }
+
+.topnav a {
+    background-color: black;
+    float: right;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: black;
+    color: grey;
+}
+

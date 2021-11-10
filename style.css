@@ -1,0 +1,32 @@
+style.css
+
+.content{}
+
+.container{
+    display: flex;
+}
+
+.padding-64{
+padding: 200px;
+}
+
+.white{
+color:white;
+}
+
+.large{
+size: large;
+}
+
+.center{
+align: center;
+}
+
+
+.right{
+    align-items: right;
+}
+.button{
+    initial-letter-align: center;
+    background: darkgoldenrod
+}
